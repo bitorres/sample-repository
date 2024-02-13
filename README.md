@@ -1,2 +1,2 @@
 # sample-repository
-This is the repository I made for the git tutorial
+This is the repository I made for the git tutorial (followed the youtube tutorial)
